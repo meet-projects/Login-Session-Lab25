@@ -6,7 +6,7 @@ In our project folder, we have a **'static' folder** where you can add **css fil
 
 In today's lab, you'll only work with and edit one main Python file and 2 templates: **home.html and display.html**. Flask session has already been imported in the main Python file.
 
-### First things first, _fork_ this repo(sitory) and _clone_ it to your desktop!
+### Before we start, make sure to download the [zip file](https://drive.google.com/file/d/1SLoR17YalIrFXn55fbFVUaX_EpGJYYxF/view?usp=sharing) and export it to sublime
 
 ## Part 1: Home
 
@@ -26,8 +26,16 @@ In today's lab, you'll only work with and edit one main Python file and 2 templa
 
 3. Check to make sure the display page will now correctly display the quote that a user enters.
 
+
+If you have extra time, continue to the **Bonus Problems** *below*.  
+If not, make sure you submit your code here.
+
+
 ### Bonus:
 
 -   Add a button to the display page to take in additional quotes
 -   Modify the `display.html` template to loop through a list of submitted quotes and display all of them.
 -   Use CSS to make your quoteboard look like an actual whiteboard!
+
+##### Great job on completing the bonus problems section!  
+### make sure you submit your code here.
