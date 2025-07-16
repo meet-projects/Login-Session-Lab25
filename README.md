@@ -6,7 +6,7 @@ In our project folder, we have a **'static' folder** where you can add **css fil
 
 In today's lab, you'll only work with and edit one main Python file and 2 templates: **home.html and display.html**. Flask session has already been imported in the main Python file.
 
-### Before we start, make sure to download the [zip file](https://drive.google.com/file/d/1SLoR17YalIrFXn55fbFVUaX_EpGJYYxF/view?usp=sharing) and export it to sublime
+### Before we start, make sure to download the [zip file](https://drive.google.com/file/d/1ofZfcnX8v7aF0PqQx-OwlW-AHBlKdWzo/view?usp=share_link) and export it to sublime
 
 ## Part 1: Home
 
