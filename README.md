@@ -28,7 +28,7 @@ In today's lab, you'll only work with and edit one main Python file and 2 templa
 
 
 If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure you submit your code here.
+If not, make sure you submit your code [here](https://forms.gle/qV846gqsnYGiCbMk7).
 
 
 ### Bonus:
@@ -38,4 +38,4 @@ If not, make sure you submit your code here.
 -   Use CSS to make your quoteboard look like an actual whiteboard!
 
 ##### Great job on completing the bonus problems section!  
-### make sure you submit your code here.
+### make sure you submit your code [here](https://forms.gle/qV846gqsnYGiCbMk7).
